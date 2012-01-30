@@ -1,0 +1,13 @@
+.svn
+snapshots
+.DS_Store
+games.json
+snapshots.js
+roms.js
+z80/z80_ops_full.js
+z80/z80_full.js
+z80/opcodes_base.jscpp
+z80/z80_cb.jscpp
+z80/z80_ddfd.jscpp
+z80/z80_ddfdcb.jscpp
+z80/z80_ed.jscpp

@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventful (1.0.0)
+      methodphitamine
+    jake (1.0.1)
+      eventful
+      oyster
+      packr
+    methodphitamine (1.0.0)
+    oyster (0.9.5)
+    packr (3.1.1)
+      oyster (>= 0.9.5)
+    rack (1.3.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jake
+  rack
